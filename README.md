@@ -1,3 +1,3 @@
 # SYDE 675 - Pattern Recognition
-# Final Project
-# CoronaHack_ChestXray
+## Final Project
+### CoronaHack_ChestXray
