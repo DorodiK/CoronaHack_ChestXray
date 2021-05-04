@@ -1,5 +1,5 @@
-# SYDE 675 - Pattern Recognition
-## Final Project
+# Feature extraction techniques for localization of region of interest of abnormalities in biomedical images
+## Final_Project - Pattern_Recognition (SYDE 675)
 
 ### Problem Statement 
 
